@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "title": "vaibhav",
+      "body": "somwad",
+      "id": 4
+    },
+    {
+      "title": "sangam",
+      "body": "wadle",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
